@@ -1,0 +1,213 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "password": "admin",
+      "role": 0
+    },
+    {
+      "id": "2",
+      "name": "kirtan",
+      "password": "admin",
+      "role": 1
+    },
+    {
+      "id": "3",
+      "name": "kirtan2",
+      "password": "admin",
+      "role": 1
+    }
+  ],
+  "characters": [
+    {
+      "id": "1",
+      "name": "Azir2",
+      "passive": "Shurima's Legacy",
+      "q": "Conquering Sands",
+      "w": "Arise!",
+      "e": "Shifting Sands",
+      "r": "Emperor's Divide"
+    },
+    {
+      "id": "3",
+      "name": "Draven",
+      "passive": "League of Draven",
+      "q": "Spinning Axe",
+      "w": "Blood Rush",
+      "e": "Stand Aside",
+      "r": "Whirling Death"
+    },
+    {
+      "id": "4",
+      "name": "Jinx",
+      "passive": "Get Excited!",
+      "q": "Switcheroo!",
+      "w": "Zap!",
+      "e": "Flame Chompers!",
+      "r": "Super Mega Death Rocket!"
+    },
+    {
+      "id": "5",
+      "name": "Darius",
+      "passive": "Hemorrhage",
+      "q": "Decimate",
+      "w": "Crippling Strike",
+      "e": "Apprehend",
+      "r": "Noxian Guillotine"
+    },
+    {
+      "id": "6",
+      "name": "Lux",
+      "passive": "Illumination",
+      "q": "Light Binding",
+      "w": "Prismatic Barrier",
+      "e": "Lucent Singularity",
+      "r": "Final Spark"
+    },
+    {
+      "id": "7",
+      "name": "Ahri",
+      "passive": "Vastayan Grace",
+      "q": "Orb of Deception",
+      "w": "Fox-Fire",
+      "e": "Charm",
+      "r": "Spirit Rush"
+    },
+    {
+      "id": "8",
+      "name": "Garen",
+      "passive": "Perseverance",
+      "q": "Decisive Strike",
+      "w": "Courage",
+      "e": "Judgment",
+      "r": "Demacian Justice"
+    },
+    {
+      "id": "9",
+      "name": "Annie",
+      "passive": "Pyromania",
+      "q": "Disintegrate",
+      "w": "Incinerate",
+      "e": "Molten Shield",
+      "r": "Summon: Tibbers"
+    },
+    {
+      "id": "10",
+      "name": "Yasuo",
+      "passive": "Way of the Wanderer",
+      "q": "Steel Tempest",
+      "w": "Wind Wall",
+      "e": "Sweeping Blade",
+      "r": "Last Breath"
+    },
+    {
+      "id": "11",
+      "name": "Sona",
+      "passive": "Power Chord",
+      "q": "Hymn of Valor",
+      "w": "Aria of Perseverance",
+      "e": "Song of Celerity",
+      "r": "Crescendo"
+    },
+    {
+      "id": "12",
+      "name": "Riven",
+      "passive": "Runic Blade",
+      "q": "Broken Wings",
+      "w": "Ki Burst",
+      "e": "Valor",
+      "r": "Blade of the Exile"
+    },
+    {
+      "id": "13",
+      "name": "Teemo",
+      "passive": "Camouflage",
+      "q": "Blinding Dart",
+      "w": "Move Quick",
+      "e": "Toxic Shot",
+      "r": "Noxious Trap"
+    },
+    {
+      "id": "14",
+      "name": "Veigar",
+      "passive": "Equilibrium",
+      "q": "Baleful Strike",
+      "w": "Dark Matter",
+      "e": "Event Horizon",
+      "r": "Primordial Burst"
+    },
+    {
+      "id": "15",
+      "name": "Thresh",
+      "passive": "Damnation",
+      "q": "Death Sentence",
+      "w": "Dark Passage",
+      "e": "Flay",
+      "r": "The Box"
+    },
+    {
+      "id": "16",
+      "name": "Ezreal",
+      "passive": "Rising Spell Force",
+      "q": "Mystic Shot",
+      "w": "Essence Flux",
+      "e": "Arcane Shift",
+      "r": "Trueshot Barrage"
+    },
+    {
+      "id": "17",
+      "name": "Fiora",
+      "passive": "Duelist's Dance",
+      "q": "Lunge",
+      "w": "Riposte",
+      "e": "Bladework",
+      "r": "Grand Challenge"
+    },
+    {
+      "id": "18",
+      "name": "Nasus",
+      "passive": "Soul Eater",
+      "q": "Siphoning Strike",
+      "w": "Wither",
+      "e": "Spirit Fire",
+      "r": "Fury of the Sands"
+    },
+    {
+      "id": "19",
+      "name": "Miss Fortune",
+      "passive": "Love Tap",
+      "q": "Double Up",
+      "w": "Strut",
+      "e": "Make It Rain",
+      "r": "Bullet Time"
+    },
+    {
+      "id": "20",
+      "name": "Katarina",
+      "passive": "Voracity",
+      "q": "Bouncing Blades",
+      "w": "Preparation",
+      "e": "Shunpo",
+      "r": "Death Lotus"
+    },
+    {
+      "id": "f430",
+      "name": "asd",
+      "passive": "asd",
+      "q": "dsad",
+      "w": "asd",
+      "e": "asdad",
+      "r": "asd"
+    },
+    {
+      "id": "0575",
+      "name": "Jhin",
+      "passive": "Wisper",
+      "q": "Dancing Grenade",
+      "w": "Captivate Audience",
+      "e": "Deadly Flourish",
+      "r": "Curtain Call"
+    }
+  ]
+}
