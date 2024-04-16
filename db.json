@@ -208,6 +208,15 @@
       "w": "Captivate Audience",
       "e": "Deadly Flourish",
       "r": "Curtain Call"
+    },
+    {
+      "id": "1412",
+      "name": "Akali",
+      "passive": "Twin Disciplines",
+      "q": "Five Point Strike",
+      "w": "Twilight Shroud",
+      "e": "Shuriken Flip",
+      "r": "Perfect Execution"
     }
   ]
 }

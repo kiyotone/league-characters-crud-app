@@ -13,11 +13,7 @@ const CharactersDisplay = () => {
     },
   });
 
-  const {
-    mutateAsync,
-    isError: delIsError,
-    error: delError,
-  } = useDeleteCharacter();
+  const { mutateAsync } = useDeleteCharacter();
   const handleDelete = async (id: string) => {
     console.log(id);
     await mutateAsync(id);
@@ -46,7 +42,7 @@ const CharactersDisplay = () => {
               {data?.data.map((character: CharacterType) => {
                 return (
                   <div className="relative">
-                    <Character {...character} />;
+                    <Character {...character} />
                     {JSON.parse(localStorage.getItem("user") || "{}").role ==
                       0 && (
                       <div
